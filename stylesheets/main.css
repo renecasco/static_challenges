@@ -41,3 +41,11 @@ h2 {
   top: 730;
   left: 40;
 }
+
+.main-paragraph {
+  text-align: justify;
+  position: absolute;
+  top: 770;
+  left: 40;
+  margin-right: 400;
+}
