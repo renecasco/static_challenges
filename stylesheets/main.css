@@ -49,3 +49,19 @@ h2 {
   left: 40;
   margin-right: 400;
 }
+
+.right-column {
+  position: absolute;
+  top: 155;
+  right: 45;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 130%;
+  margin-bottom: 10px;
+}
+
+img {
+  margin-bottom: 45px;
+}
