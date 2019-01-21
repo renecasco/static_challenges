@@ -12,7 +12,16 @@ h1{
 
 h1 a{
   font-size: 50%;
-  color: inherit;
-  padding: 11;
+}
+
+a{
+  color: white;
   float: right;
+  padding: 15;
+}
+
+.navigation-bar {
+  background-color: rgb(64,64,64);
+  overflow:hidden;
+  padding-right: 20;
 }
